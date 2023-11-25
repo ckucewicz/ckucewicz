@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chris Kucewicz (he/him)</h1>
 <h3 align="center">Data Analyst | B.S. in Mathematics</h3>
 
-- 🌱 I’m currently learning **skills and techniques in data analysis and machine learning through Flatiron School's Data Science bootcamp program**
+- 🌱 I’m currently learning **skills and techniques in data analysis and machine learning through Flatiron School's Data Science bootcamp program.**
 
-- 👯 I’m looking to collaborate **with others in the transit/planning community on projects analyzing transit and spatial data**
+- 👯 I’m looking to collaborate **with others in the transit/planning community on projects analyzing transit and spatial data.**
 
 - 📫 How to reach me **ckucewicz21@gmail.com**
 
