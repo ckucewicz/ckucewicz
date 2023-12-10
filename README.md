@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Kucewicz (he/him)</h1>
-<h3 align="center">Data Analyst | B.S. in Mathematics</h3>
+<h3 align="center">Data Scientist | B.S. in Mathematics</h3>
 
 - 🌱 I’m currently learning **skills and techniques in data analysis and machine learning through Flatiron School's Data Science bootcamp program.**
 
