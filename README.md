@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **skills and techniques in data analysis and machine learning through Flatiron School's Data Science bootcamp program.**
 
-- 👯 As a former high school math teacher, I’m looking to collaborate **with others in the education community on projects analyzing education data.**
+- 👯 As a former high school math teacher, I’m looking to collaborate **with others in the education community on projects analyzing educational data.**
 
 - 📫 How to reach me **ckucewicz21@gmail.com**
 
