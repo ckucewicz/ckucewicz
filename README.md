@@ -5,7 +5,7 @@
 
 - 👯 As a former high school math teacher, I’m looking to collaborate **with others in the education community on projects analyzing educational data.**
 
-- 📫 How to reach me **ckucewicz21@gmail.com**
+- 📫 How to reach me **cfkucewicz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
