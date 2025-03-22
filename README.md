@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chris Kucewicz (he/him)</h1>
 <h3 align="center">Data Scientist | Policy Analyst | B.S. in Mathematics</h3>
 
-- 🌱 I’m currently learning **skills and techniques in data analysis and machine learning through Flatiron School's Data Science bootcamp program.**
+- 🎓 I hold a B.S. in Mathematics from the University of Pittsburgh and a Data Science certificate from Flatiron School, a data science bootcamp. I’ve developed skills in **data analysis, machine learning, and statistical techniques.**
 
-- 👯 As a former math teacher, I’m looking to collaborate **with others in the education community on projects analyzing educational data.**
+- 👯 As a former math teacher with a strong interest in education, I’m passionate about using **data to drive improvements in educational outcomes**. I’m also deeply interested in public policy, particularly in areas like **public transportation and active mobility**, and how data can inform and shape decisions that benefit communities.
 
 - 📫 How to reach me **cfkucewicz@gmail.com**
 
