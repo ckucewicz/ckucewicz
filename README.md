@@ -18,7 +18,6 @@
 | [**Tanzania Water Well Classification**](https://github.com/ckucewicz/water_well_classification)         | Predicted functionality of 5,700+ Tanzania water wells using a Random Forest model, achieving 78% recall. Cleaned 60k-entry dataset.| Python, Machine Learning (Random Forest), Geospatial Analysis, Data Cleaning, Feature Engineering |
 | [**NYC Trees and Wealth Analysis**](https://public.tableau.com/views/WealthTreesinNYC/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Geospatial analysis of income & tree census data across New York City’s five boroughs; visualized the results of over 680k trees in New York City.| Data Visualization, Data storytelling, Tableau |
 | [**Movie Recommendation System**](https://github.com/ckucewicz/movie_recommendation_system)                | Developed a collaborative filtering-based recommendation system with 100k+ user ratings, optimized with SVD for a 2.5% RMSE improvement. | Python, Collaborative Filtering, Surprise Library, Hyperparameter Tuning, RMSE, Data Cleaning |
-| [**Movie Analysis Project**](https://github.com/ckucewicz/movie_analysis_project)  |Analyzed movie data from 1M+ observations to identify cost-efficient features for high ROI. | Python, SQL, Pandas, Data Visualization |
 
 ## My Journey
 
