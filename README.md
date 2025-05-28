@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Policy Analyst | Mathematics, B.S. | Education, M.S. </h3>
 
 <p align="left">
-  I’m a data scientist / policy analyst passionate about using data to drive impactful decisions in education, public safety, and public service. With a background in mathematics and statistics, and interests in education, urban planning, transportation, and public policy, I apply analytical skills to solve real-world problems and create equitable solutions.
+  I’m a data scientist / policy analyst passionate about using data to drive impactful decisions. With a background in mathematics and statistics, and interests in education, urban planning, transportation, and public policy, I apply analytical skills to solve real-world problems and create equitable solutions.
 </p>
 
 <p align="left">
