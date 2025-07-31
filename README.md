@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chris (he/him)</h1>
-<h3 align="center">Data Scientist | Policy Analyst | Mathematics, B.S. | Education, M.S. </h3>
+<h3 align="center">Data / Policy Analyst | Project Manager | Mathematics, B.S. | Education, M.S. </h3>
 
 <p align="left">
-  I’m a data scientist / policy analyst passionate about using data to drive impactful decisions. With a background in mathematics and statistics, and interests in education, urban planning, transportation, and public policy, I apply analytical skills to solve real-world problems and create equitable solutions.
+  I’m a data / policy analyst passionate about using data to drive impactful decisions. With a background in mathematics and statistics, and interests in education, urban planning, transportation, and public policy, I apply analytical skills to solve real-world problems and create equitable solutions.
 </p>
 
 <p align="left">
