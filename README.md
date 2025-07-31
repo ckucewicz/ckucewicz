@@ -11,7 +11,7 @@
 
 ## Technical Projects
 
-| Project                                   | Description                                                                                                    | Skills                                                        |
+| Project                                   | Description                                                                                                    | Skills/Tools                                                        |
 |------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 | [**Chicago Traffic Safety Analysis**](https://github.com/ckucewicz/traffic_crash_prediction)             | Used machine learning to analyze 1M+ Chicago traffic crash records, identifying key contributors to fatal crashes and proposing policy recommendations. | Python, Machine Learning (Decision Trees, SMOTE, Precision-Recall AUC), Data Cleaning, Policy Analysis |
 | [**Chicago Youth Gun Violence & Education Regression Analysis**](https://github.com/ckucewicz/mortality_education_analysis) | Analyzed the relationship between youth gun deaths and graduation rates across Chicago using regression analysis and created [Tableau dashboard](https://public.tableau.com/views/DataVizChallenge_Gun_Violence__Edu/scientificdashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). | R, Regression Analysis, Hypothesis Testing, Geospatial Analysis, Tableau          |
