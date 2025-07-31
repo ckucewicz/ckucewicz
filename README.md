@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  Explore my projects and experience below to see how I’ve applied data-driven insights to tackle challenges and create positive change.
+  Explore my projects and experience below.
 </p>
 
 ## Technical Projects
