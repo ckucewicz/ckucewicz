@@ -27,7 +27,7 @@
 | 2023 - 2024  | Lead Content & Data Reporting Specialist, **TEACH, LLC.**  | [Longitudinal Data Analysis](https://www.canva.com/design/DAGPAFaaptU/BjIkCCie1uVsM7v-BKOd9g/view?utm_content=DAGPAFaaptU&utm_campaign=designshare&utm_medium=link&utm_source=editor), Program Evaluation, Educational Data Analysis, Data Reporting |
 | 2021 - 2023  | High School Math Teacher & Academic Advisor, **School District of Philadelphia** | Project Management, Student Performance Data Analysis (Google Sheets), Data-Driven Instruction |
 | 2020 - 2021  | High School Math Teacher, **String Theory Charter Schools** | Change Management, Project Management, Student Performance Data Analysis (Google Sheets), Data-Driven Instruction                    |
-| Summer 2017  | Supply Chain and Operations Intern, **Laborocity**                 | Process Improvement, Salesforce Implementation, Data Management, Workflow Optimization                         |
+| Summer 2017  | Business Operations Intern, **Laborocity**                 | Process Improvement, Salesforce Implementation, Data Management, Workflow Optimization                         |
 
 ## Let's Connect
 Always happy to chat about data, education, or anything in between, feel free to reach out!
