@@ -11,7 +11,7 @@
 
 ---
 
-Data professional with expertise in Python, R, SQL, and Tableau, experienced in statistical analysis, geospatial work, and data storytelling. Former educator with a strong foundation in math and public-sector work. I focus on surfacing gaps, translating insights clearly, and helping teams use data to drive smarter, more equitable decisions.
+Data professional with expertise in Python, R, SQL, and Tableau, experienced in statistical analysis, geospatial work, and data storytelling. Former educator with a strong foundation in math and public-sector work.
 
 Chicago, IL | Open to data analyst, research analyst, data visualization, and consulting roles
 
