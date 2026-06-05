@@ -1,35 +1,63 @@
-<h1 align="center">Hi 👋, I'm Chris (he/him)</h1>
-<h3 align="center">Data / Policy Analyst | Mathematics, B.S. | Education, M.S. </h3>
+<h1 align="center">Hi, I'm Chris Kucewicz (he/him)</h1>
+<h3 align="center">Data & Research Analyst, GIS, Data Visualization</h3>
 
-<p align="left">
-  I’m a data / policy analyst passionate about using data to drive impactful decisions. With a background in mathematics, and interests in education, urban planning, transportation, and public policy, I apply analytical skills to solve real-world problems and create equitable solutions.
+<p align="center">
+  <a href="https://www.linkedin.com/in/chriskucewicz/"><img src="https://img.shields.io/badge/LinkedIn-chriskucewicz-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/ckucewicz"><img src="https://img.shields.io/badge/GitHub-ckucewicz-181717?style=flat&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="http://public.tableau.com/app/profile/chris.kucewicz"><img src="https://img.shields.io/badge/Tableau-Public-E97627?style=flat&logo=tableau&logoColor=white"/></a>&nbsp;
+  <a href="http://medium.com/@ckucewicz21"><img src="https://img.shields.io/badge/Blog-Medium-000000?style=flat&logo=medium&logoColor=white"/></a>&nbsp;
+  <a href="mailto:cfkucewicz@gmail.com"><img src="https://img.shields.io/badge/Email-cfkucewicz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="left">
-  Explore my projects and experience below.
-</p>
+---
+
+Data professional with expertise in Python, R, SQL, and Tableau, experienced in statistical analysis, geospatial work, and data storytelling. Former educator with a strong foundation in math and public-sector work.
+
+Chicago, IL | Open to data analyst, research analyst, and GIS roles
+
+---
 
 ## Technical Projects
 
-| Project                                   | Description                                                                                                    | Skills/Tools                                                        |
-|------------------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| [**Crime Rate Regression Analysis**](https://ckucewicz.github.io/crime_rate_regression/) | Analyzing ~20 years of Chicago budget and crime data to evaluate how public spending across sectors (e.g., police, housing, libraries) relates to crime rates over time.| R, Regression Analysis, Inference, Data Cleaning, Data Visualization         |
-| [**Transit Ridership Analysis**](https://ckucewicz.github.io/cta_ridership_analysis/) | Analyzed 1.2M+ CTA ‘L’ station records to assess post-COVID recovery, accessibility gaps, and station usage; built linear and logistic models to project future ridership trends. | SQL (PostgreSQL), CTEs, Joins, Data Cleaning, Data Integration, Exploratory Data Analysis (EDA), Python (Pandas), Data Visualization (Plotly, Folium), Data modeling, Data forecasting|
-| [**Chicago Traffic Safety Prediction**](https://ckucewicz.github.io/traffic_crash_prediction/)             | Built classification model to analyze 1M+ Chicago traffic crash records, identifying key contributors to fatal crashes and proposing policy recommendations. | Python, Machine Learning (Decision Trees, SMOTE, Precision-Recall AUC), Data Cleaning, Policy Analysis |
-| [**NYC Trees and Wealth Analysis**](https://public.tableau.com/views/WealthTreesinNYC/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Geospatial analysis of income & tree census data across New York City’s five boroughs; visualized the results of over 680k trees in New York City.| Data Visualization, Data storytelling, Tableau, Geospatial Analysis |
+| Project | Description | Tools |
+|---|---|---|
+| [**CTA Transit Ridership Analysis**](https://ckucewicz.github.io/cta_ridership_analysis/) | Cleaned and analyzed 1.25M+ records; built forecasting models projecting post-COVID ridership recovery to ~85–90% of pre-pandemic highs | SQL, Python, Plotly, Folium |
+| [**Illinois Community Revitalization**](https://github.com/ckucewicz) | Composite need score ranking all 102 IL counties on 5 ACS indicators to guide targeted revitalization investment | R, tidycensus, ggplot2, GIS |
+| [**NYC Trees & Wealth Dashboard**](https://public.tableau.com/views/WealthTreesinNYC/Dashboard1) | Geospatial analysis of income and tree census data across NYC's five boroughs, 680k+ trees visualized | Tableau, GIS, data storytelling |
+| [**Chicago Bike Lane & Housing Analysis**](https://github.com/ckucewicz/bike_lane_housing_analysis) | Spatial and statistical analysis exploring the relationship between bike infrastructure investment and housing trends across Chicago neighborhoods | R, GeoPandas, regression, GIS |
+| [**Tanzania Water Well Classification**](https://github.com/ckucewicz) | Predicted water well functionality across ~60k entries; achieved 78% recall with a tuned Random Forest model | Python, scikit-learn, GeoPandas, ML |
+| [**Crime Rate Regression Analysis**](https://ckucewicz.github.io/crime_rate_regression/) | Analyzed ~20 years of Chicago budget and crime data to evaluate how public spending relates to crime rates over time | R, regression, inference |
 
-## My Journey
+---
 
-| Timeframe          | Role                                                              | Skills                                                                                                    |
-|--------------------|--------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| 2024 - Present  | Project Manager & Data/Policy Analyst, **Cook County Department of Research, Operations, & Innovation** | Data Analysis (R & Python), Survey Design, Data Visualization (Tableau & Power BI), Project Management, Data Reporting, Process Improvement |
-| Spring-Fall 2024  | Community Ambassador, **City of Philadelphia**         | Data Analysis ([Tableau](https://public.tableau.com/views/VisionZeroAmbassadorOutreachAnalysis/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)), Outreach Strategy, Event Coordination, Stakeholder Engagement, Public Policy Impact     |
-| 2023 - 2024  | Lead Content & Data Reporting Specialist, **TEACH, LLC.**  | [Longitudinal Data Analysis](https://www.canva.com/design/DAGPAFaaptU/BjIkCCie1uVsM7v-BKOd9g/view?utm_content=DAGPAFaaptU&utm_campaign=designshare&utm_medium=link&utm_source=editor), Program Evaluation, Educational Data Analysis, Data Reporting |
-| 2021 - 2023  | High School Math Teacher & Academic Advisor, **School District of Philadelphia** | Project Management, Student Performance Data Analysis (Google Sheets), Data-Driven Instruction |
-| 2020 - 2021  | High School Math Teacher, **String Theory Charter Schools** | Change Management, Project Management, Student Performance Data Analysis (Google Sheets), Data-Driven Instruction                    |
-| Summer 2017  | Business Operations Intern, **Laborocity**                 | Process Improvement, Salesforce Implementation, Data Management, Workflow Optimization                         |
+## Experience
 
-## Let's Connect
-Always happy to chat about data, education, or anything in between, feel free to reach out!
-* linkedin: [https://www.linkedin.com/in/chriskucewicz/](https://www.linkedin.com/in/chriskucewicz/)
-* email: [cfkucewicz@gmail.com](cfkucewicz@gmail.com)
+**Program Analyst**, *Michael's Energy (Energy Analytics Consulting)* `2025–present`
+
+**Project Manager & Data/Policy Analyst**, *Cook County Office of Research, Operations & Innovation* `2024–2025`
+
+**Community Engagement Ambassador**, *City of Philadelphia* `2024`
+
+**Lead STEM Instructor & Data Reporting Specialist**, *TEACH, LLC* `2023–2024`
+
+---
+
+## Skills
+
+**Languages:** Python (Pandas, NumPy, scikit-learn, Plotly), R (ggplot2, tidyverse, tidycensus), SQL
+
+**Visualization:** Tableau, Power BI, Matplotlib, Seaborn, InDesign
+
+**Geospatial:** GeoPandas, Folium, ArcGIS Online, spatial clustering, drive-time analysis
+
+**Methods:** Regression, classification, forecasting, survey design, program evaluation, ETL
+
+---
+
+## Education
+
+**Data Science Bootcamp**, Flatiron School `2024`
+
+**M.S. Education**, University of Pennsylvania `2020`
+
+**B.S. Mathematics** *(Magna Cum Laude)*, University of Pittsburgh `2018`
